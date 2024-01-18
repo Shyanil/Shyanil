@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Java**
 
-- 💬 Ask me about **Java, C++, MySQL, Spring Boot**
+- 💬 Ask me about **Java, MySQL, Spring Boot**
 
 - 📫 How to reach me **shyanilmishra94@gmail.com**
 
