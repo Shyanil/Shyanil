@@ -1,6 +1,6 @@
 ![MasterHead](https://w.wallhaven.cc/full/2y/wallhaven-2y39jy.png)
 <h1 align="center">Hi 👋, I'm Shyanil Mishra</h1>
-<h3 align="center">On a journey to build my career in Java and C++, driven by a passion for coding and a commitment to continuous learning. Let's connect and create together in the exciting world of programming!</h3>
+<h3 align="center">On a journey to build my career in Java and driven by a passion for coding and a commitment to continuous learning. Let's connect and create together in the exciting world of programming!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif">
 
 - 🌱 I’m currently learning **Spring Boot, Java**
