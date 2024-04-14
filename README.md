@@ -87,10 +87,8 @@
   </a>
 </p>
 
-<p align="center">
+<p align="Center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyanil&show_icons=true&locale=en&layout=compact" alt="shyanil" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyanil&show_icons=true&locale=en" alt="shyanil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyanil&" alt="shyanil" /></p>
