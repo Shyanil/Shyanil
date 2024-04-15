@@ -35,7 +35,7 @@
   <a href="https://www.behance.net/shyanilmishras" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shyanilmishras" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/@shyanilmishra94" target="_blank">
+  <a href="https://www.hackerrank.com/shyanilmishra94" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shyanilmishra94" height="30" width="40" />
   </a>
 </p>
