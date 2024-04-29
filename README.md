@@ -2,16 +2,17 @@
   <img src="https://blog.drjobpro.com/wp-content/uploads/2020/10/20-GIFs-That-Only-Employees-Will-Understand.gif" alt="MasterHead" />
 
 </p>
-<p align="center">
- 
-   <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/q76P0fKb/2design.png"  alt="MasterHead">
-</p>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Shyanil Mishra</h1>
 <h3 align="center">A results-driven individual with expertise in Java, Salesforce development, Kotlin, UI/UX, MySQL, and Spring Boot. Knowledge of Android Studio and Postman. Also familiar with HTML & CSS. Proficient with Office 365 and operating systems like Ubuntu and Windows. Skilled in Linux bash scripting. A dedicated and hardworking fast learner, committed to contributing to organizational success.</h3>
 
 
-
+<p align="right">
+  <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/q76P0fKb/2design.png"  alt="MasterHead">
+</p>
 
 
 - 🌱 I’m currently learning **Java**, **Salesforce**, **Spring Boot**, **UI/UX**, **AI/ML Engineering** 🚀
