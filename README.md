@@ -9,10 +9,6 @@
 <h3 align="center">A results-driven individual with expertise in Python, Java, Data Structures and Algorithms (DSA), Machine Learning (ML), Data Science, Salesforce development, UI/UX, MySQL, and Spring Boot. Knowledge of Android Studio and Postman. Also familiar with HTML & CSS. Proficient with Office 365 and operating systems like Ubuntu and Windows. Skilled in Linux bash scripting. A dedicated and hardworking fast learner, committed to contributing to organizational success.</h3>
 
 
-<p align="right">
-  <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/q76P0fKb/2design.png" alt="MasterHead">
-</p>
-
 - 🌱 I’m currently learning **Machine Learning** and **Data Science** 🚀
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://66066be9773f52b0555ea463--guileless-kangaroo-36d53c.netlify.app/#home)
