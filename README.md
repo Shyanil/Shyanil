@@ -1,98 +1,18 @@
-<p align="center">
-  <img src="https://blog.drjobpro.com/wp-content/uploads/2020/10/20-GIFs-That-Only-Employees-Will-Understand.gif" alt="MasterHead" />
-</p>
+# 💫 About Me:
+<br>🚀 Trying to contribute Open source  <br>🤖 Building Machine Learning & Deep Learning*models that make a difference.  <br>💡 For me, ML & DL aren’t just concepts—they’re the real deal!  <br>🔗 Find my real projects here:[GitHub/Shyanil](https://github.com/Shyanil)  <br><br><br><br>
 
 
-<h1 align="center">Hi 👋, I'm Shyanil Mishra</h1>
-<h3 align="center">Business Automation Developer Intern at SquashCode</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shyanil-mishra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyanil1222opensource@gmail.com) 
 
-<h3 align="center">A results-driven individual with expertise in Python, Java, Data Structures and Algorithms (DSA), Machine Learning (ML), Data Science, Salesforce development, UI/UX, MySQL, and Spring Boot. Knowledge of Android Studio and Postman. Also familiar with HTML & CSS. Proficient with Office 365 and operating systems like Ubuntu and Windows. Skilled in Linux bash scripting. A dedicated and hardworking fast learner, committed to contributing to organizational success.</h3>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shyanilMishra&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shyanilMishra&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shyanilMishra&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=shyanilMishra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Machine Learning** and **Data Science** 🚀
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://66066be9773f52b0555ea463--guileless-kangaroo-36d53c.netlify.app/#home)
-
-- 💬 Ask me about **DSA**, **Machine Learning**, **Java**, **Python**, **Data Science**, **UI/UX**, **AI/ML Engineering** 😊
-
-- 📫 How to reach me: **shyanilmishra94@gmail.com** 📧
-
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1-FKYVchdVku7dfasePI-xhOs4hRj7DBl)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shyanil-mishra" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shyanil-mishra" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/shyanil_mishra" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyanil_mishra" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/shyanilmishras" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shyanilmishras" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/shyanilmishra94/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkO5u68gJKlRiAQViV3hmW6ZBJJy8HEZNKCA&s" alt="@shyanilmishra94" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" alt="salesforce" width="50" height="40"/>
-  </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfCfOSb-vXHGNcD6I6J3sgL0Y-W-LSKIvMGvBPj1o6FQ&s" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Python Libraries:</h3>
-<p align="left">
-  <ul>
-    <li>NumPy</li>
-    <li>Pandas</li>
-    <li>Matplotlib</li>
-    <li>Seaborn</li>
-  </ul>
-</p>
-
-<p align="Center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyanil&show_icons=true&locale=en&layout=compact" alt="shyanil" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
